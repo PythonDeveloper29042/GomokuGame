@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@name: game.py
+@fileName: game.py
+@project: GomokuGame
 @description: Provides a base Game class with functionality for keyboard and mouse events, pause, fullscreen mode, and score display.
 Includes a Test class as an example for basic game setup.
 @author: Pythondeveloper29042
-@date: 2024/11/9
+@authorEmail: pythondeveloper.29042@outlook.com
+@commitDate: 2024/11/10
+@github: https://github.com/PythonDeveloper29042/GomokuGame.git
 """
 
 import pygame

@@ -3,7 +3,7 @@
 """
 @fileName: main.py
 @project: GomokuGame
-@version: 1.0.3r
+@version: 1.0.4
 @description: Implementation of a Gomoku (Five in a Row) game using Pygame.
 The game allows two players (black and white) to take turns placing pieces on a 17*17 board.
 The first player to achieve a consecutive line of five pieces wins the game.
