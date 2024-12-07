@@ -83,3 +83,5 @@ You can modify the `ROWS` and `SIDE` constants in `main.py` to change the board 
 - **Author**: PythonDeveloper29042
 - **Contact**: [pythondeveloper.29042@outlook.com](mailto:pythondeveloper.29042@outlook.com)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
